@@ -17,4 +17,4 @@ chmod +x main
 ./main
 ```
 ### For Windows:
-in the folder "CaffeineAddict-Windows" there is a main.exe file, just launch that.
+in the folder "CaffeineAddict-Windows" there is a "main.exe" file, just launch that.
