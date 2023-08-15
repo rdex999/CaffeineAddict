@@ -6,6 +6,16 @@ Wrriten in C with sdl2.
 Please note that this is my first ever project in C, so i know the code kinda sucks.
 I also made this game about a year ago and now i decided to put it in github.
 
+## Keyboard keys
+a - move left   
+d - move right   
+w - jump   
+space - jump   
+right shift - shoot    
+r - reload    
+esc - exit game   
+
+
 ## How to run the game
 ### For Linux:
 in the folder "CaffeineAddict-Linux" there is a binary file named "main"  
